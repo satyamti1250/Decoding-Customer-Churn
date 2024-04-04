@@ -52,8 +52,7 @@ Or
 ## Conclusion
 The dashboard provides a clear visualization of the data, highlighting areas for strategic intervention and illustrating the importance of data-driven decision-making in reducing customer churn.
 
-## How to Use the Dashboard
-Instructions on how to navigate and interpret the dashboard are provided, ensuring users can effectively extract and utilize the insights presented.
+
 
 ## Contributing
 Suggestions for improvements or additional analyses are welcome. Please feel free to fork this repository or submit a pull request.
