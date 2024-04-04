@@ -16,8 +16,7 @@ In the competitive landscape of the telecom industry, understanding customer chu
 
 ## Getting Started
 
-To explore the dashboards and reports, go to this link: [PowerBi reports]([https://app.powerbi.com/view?r=eyJrIjoiNWI4NjIwN2EtYzllMy00YWM4LTliMjctNDAxOTNkYmExZjBlIiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9](https://app.powerbi.com/view?r=eyJrIjoiNDhhMTIyZTQtYzI3NS00YmQ0LWI4YTQtZDE3MTk1Mzk1M2JjIiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9))
-
+To explore the dashboards and reports, go to this link: [PowerBi reports](https://app.powerbi.com/view?r=eyJrIjoiNDhhMTIyZTQtYzI3NS00YmQ0LWI4YTQtZDE3MTk1Mzk1M2JjIiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9)
 Or
 
 1. Clone this repository.
