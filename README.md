@@ -12,6 +12,12 @@ In the competitive landscape of the telecom industry, understanding customer chu
 - **Tools Used:** PostgreSQL for data storage and ETL processes, Power BI for data visualization, Power Query for data transformation, and DAX for custom analytics.
 - **Data:** The dataset includes customer demographics, service usage patterns, billing information, and churn status.
 
+## Dashboard Screenshot
+![Customer Churn Dashboard](https://github.com/satyamti1250/Decoding-Customer-Churn/blob/main/DB.png)
+
+
+
+
 ## Insights Discovered
 
 1. **Retention Indicators:** Analyzing a customer base of 7,043, we found a strong retention rate, which suggests successful customer satisfaction and retention efforts.
